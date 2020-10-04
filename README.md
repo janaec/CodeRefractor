@@ -6,4 +6,4 @@ Objective:
 Video of Project In Link Below: 
 https://drive.google.com/file/d/16cTs0RoZIGZ52AnH3Bb-gDtRdYMcOALM/view
 
-<img src="https://drive.google.com/file/d/16cTs0RoZIGZ52AnH3Bb-gDtRdYMcOALM/preview" width="640" height="480"></img>
+<a> src="https://drive.google.com/file/d/16cTs0RoZIGZ52AnH3Bb-gDtRdYMcOALM/preview" width="640" height="480"></a>
