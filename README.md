@@ -1,9 +1,9 @@
 # CodeRefractor
-Objective:
--To Refract code that was already provided. 
--Add Alt Tags to all imgaes 
--Combine all CSS Code that was repetitive. 
-Video of Project In Link Below: 
-<a> https://drive.google.com/file/d/16cTs0RoZIGZ52AnH3Bb-gDtRdYMcOALM/view </a>
-
-<img src=
+Objective: 
+<ul>
+  <li> HTML is semanticall correct <li>
+  <li> A Logical flow of HTML elements<li>
+  <li> All links are working<li>
+  <li> Title is Logical<li>
+  <li> Images have allt tags<li>
+    
