@@ -8,6 +8,7 @@ Objective: Task is to take and existing webpage and refract the code. Always lea
   <li> Images have allt tags<li>
 </ul>
 
-<p> Link to the page below:</p>
-<a> <iframe src="https://drive.google.com/file/d/16cTs0RoZIGZ52AnH3Bb-gDtRdYMcOALM/preview" width="640" height="480"></iframe> </a>
+<p> Link to the page below:</p> 
+
+<iframe> src="https://drive.google.com/file/d/16cTs0RoZIGZ52AnH3Bb-gDtRdYMcOALM/preview" width="640" height="480"></iframe> </a>
     
